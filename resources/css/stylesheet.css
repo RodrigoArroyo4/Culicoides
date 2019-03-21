@@ -1,0 +1,111 @@
+.bg-dark {
+  background-color: #99BFC2 !important;
+}
+.navbar-light .navbar-brand {
+  color: rgba(0, 0, 0, 1);
+}
+
+.navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
+  color: rgba(0, 0, 0, 1);
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: rgba(0, 0, 0, 1);
+}
+
+.navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {
+  color: rgba(0, 0, 0, 1);
+}
+
+.navbar-light .navbar-nav .nav-link.disabled {
+  color: rgba(0, 0, 0, 1);
+}
+
+.navbar-light .navbar-nav .show > .nav-link,
+.navbar-light .navbar-nav .active > .nav-link,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .nav-link.active {
+  color: rgba(0, 0, 0, 1);
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+}
+
+.nav-link {
+	vertical-align: middle;
+  	line-height: normal; 
+  	padding:0;
+}
+
+.banner{
+	background-color: #9b2b3f;
+}
+
+.banner-text{
+	padding-top: 3%;
+	color:#ddd9da;
+}
+
+.navbar-nav > li > a {padding-top:5px !important; padding-bottom:5px !important; height: 25px;}
+
+.container-full {
+  margin: 0 auto;
+  width: 100%;
+  padding: 30px;
+  background-color: #DEE8F2;
+  display: block;
+}
+
+.navbar {
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  padding: 0;
+  padding-left: 1rem;
+  min-height:25px !important ; 
+}
+
+.navbar-toggler-icon {
+  display: inline-block;
+  width: 0.75em;
+  height: 0.755em;
+  vertical-align: middle;
+  content: "";
+  padding-top:0px !important; padding-bottom:0px !important;
+  background: no-repeat center center;
+  background-size: 100% 100%;
+}
+
+.body-text {
+  font-size: 0.8rem;
+  font-weight: 400;
+}
+
+.main-title-text{
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.subtitle-text{
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.subtitle-text-normal{
+  font-size: 0.9rem;
+  font-weight: 400;
+}
+
+.indent {
+  padding-left: 35px;
+}
+
+
+
