@@ -20,7 +20,7 @@
 <body>
   <section class="banner text-white mb-0" id="about">
     <div class="container">
-      <h2 class="text-center text-uppercase banner-text">Lorem Ipsum</h2>
+      <h2 class="text-center text-uppercase banner-text">Culicoides USFQ</h2>
       <div class="row">
         <div class="col-lg-12 ml-auto">
           <p class="lead"></p>
